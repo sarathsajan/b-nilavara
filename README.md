@@ -6,6 +6,7 @@ A basic password manager
 ### 2020/12/21
 * started the project, installed necessary packages and created the flask boilerplate
 * [difference between crypto and pycrypto packages in python](https://stackoverflow.com/questions/65396901/what-is-the-difference-between-pycrypto-and-crypto-packages-in-python). well the doubt led me to -
+  * [awesome cryptography - sobolevn](https://github.com/sobolevn/awesome-cryptography#python)
   * found both of them are unsuable for different reasons and the best package being [Python Encryption](https://pypi.org/project/cryptography/) module.
   * [Friends Don't Let Friends Use PyCrypto](https://theartofmachinery.com/2017/02/02/dont_use_pycrypto.html)
 
