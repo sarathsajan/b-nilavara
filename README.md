@@ -2,8 +2,6 @@
 
 ## Development Log
 
-### 2020/12/22
-
 ### 2020/12/21
 * started the project, installed necessary packages and created the flask boilerplate
 * [difference between crypto and pycrypto packages in python](https://stackoverflow.com/questions/65396901/what-is-the-difference-between-pycrypto-and-crypto-packages-in-python). well the doubt led me to -
