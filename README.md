@@ -1,7 +1,8 @@
 # B Nilavara - CyberVault
-A basic password manager
 
 ## Development Log
+
+### 2020/12/22
 
 ### 2020/12/21
 * started the project, installed necessary packages and created the flask boilerplate
