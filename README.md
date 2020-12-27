@@ -4,7 +4,7 @@
 
 ### 2020/12/28
 * spent a full day understanding docker from zero
-* learned how to [build dockerfile and run/deploy a basic node app](https://www.docker.com/101-tutorial)
+* learnt how to [build dockerfile and run/deploy a basic node app](https://www.docker.com/101-tutorial)
 * but i dont know how is it going to be useful for this project ¯\_(ツ)_/¯
 ### 2020/12/21
 * started the project, installed necessary packages and created the flask boilerplate
