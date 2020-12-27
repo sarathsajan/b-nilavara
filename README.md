@@ -2,6 +2,10 @@
 
 ## Development Log
 
+### 2020/12/28
+* spent a full day understanding docker from zero
+* learned how build dockerfile and run/deploy a basic node app
+* but i dont know how is it going to be useful for this project ¯\_(ツ)_/¯
 ### 2020/12/21
 * started the project, installed necessary packages and created the flask boilerplate
 * [difference between crypto and pycrypto packages in python](https://stackoverflow.com/questions/65396901/what-is-the-difference-between-pycrypto-and-crypto-packages-in-python). well the doubt led me to -
