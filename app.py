@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, render_template
 from flask_restful import Api, Resource, reqparse, abort, marshal_with, fields
 from flask_sqlalchemy import SQLAlchemy
 
@@ -32,7 +32,7 @@ mysql = MySQL(app)
 
 @app.route('/')
 def index():
-    return 'B Nilavara - CyberVault'
+    return render_template('home.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
