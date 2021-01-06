@@ -2,6 +2,9 @@
 
 ## Development Log
 
+### 2021/07/01
+* did the initial push of basic flask boilerplate
+
 ### 2020/12/28
 * spent a full day understanding docker from zero
 * learnt how to [build dockerfile and run/deploy a basic node app](https://www.docker.com/101-tutorial)
